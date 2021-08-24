@@ -11,4 +11,7 @@ A natural train of thought to achieve reflective filling has following 4 procedu
 
 (4) Finally we copy the color at point Q to that of point P in the raw image I. 
 
-This MATLAB code achieves abovementioned step for digital fundus images.
+This MATLAB code achieves abovementioned steps for digital fundus images.
+
+
+![issue1](https://user-images.githubusercontent.com/61624968/130604223-6b01ece1-1871-4648-be16-788f87c0d570.jpg)
