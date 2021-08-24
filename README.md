@@ -1,4 +1,5 @@
-# RetImgFilling
+# A reflective background filling algorithm for fundus images preprocessing
+
 This MATLAB code processes a retinal image and fills the black background in a reflective manner
 
 A natural train of thought to achieve reflective filling has following 4 procedures: ↓
