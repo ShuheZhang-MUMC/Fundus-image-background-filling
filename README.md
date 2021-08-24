@@ -15,7 +15,8 @@ A natural train of thought to achieve reflective filling has following 4 procedu
 This MATLAB code achieves abovementioned steps for digital fundus images.
 
 **Usage**
-demo_main.m
+demo_main.m.
+
 The threshold **T** for the ROI (Region of interest) should be adjust for different fundus image. Empirically, T = 10 for 8 bit color fundus image.
 
 
